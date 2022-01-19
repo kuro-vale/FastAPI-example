@@ -1,23 +1,23 @@
 [
   {
-    "user_id": "a800899c-5e9a-440e-b4bd-f051146ebbb6",
-    "username": "kuro",
-    "birth_date": "2021-12-15",
-    "email": "user@example.com",
-    "password": "string"
-  },
-  {
-    "user_id": "c8892209-cffd-487c-b428-d2ce1cf90daa",
-    "username": "string",
-    "birth_date": "2021-12-15",
-    "email": "user@example.com",
-    "password": "string"
-  },
-  {
-    "user_id": "cf6ae8ef-8109-4c5c-a975-e318d9c0e335",
     "username": "kurovale",
+    "password": "kurovale",
+    "user_id": "8ca3f661-29fa-4678-9e87-55865cc86fa5",
     "birth_date": "2000-08-21",
-    "email": "jsalcedo218@gmail.com",
-    "password": "kurovale"
+    "email": "jsalcedo218@gmail.com"
+  },
+  {
+    "username": "User3",
+    "password": "pasauser",
+    "user_id": "58f84358-efe5-40cf-84a9-af9236e88007",
+    "birth_date": "2000-08-21",
+    "email": "user4@gmail.com"
+  },
+  {
+    "username": "User2",
+    "password": "passuser2",
+    "user_id": "1d7bb078-d664-4bae-b054-44741fec97c7",
+    "birth_date": "2000-08-21",
+    "email": "jsalcedo218@gmail.com"
   }
 ]
