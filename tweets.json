@@ -1,0 +1,42 @@
+[
+    {
+      "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "content": "string",
+      "created_datetime": "2021-12-14 18:01:56.925170",
+      "created_timezone": "SA Pacific Standard Time",
+      "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "birth_date": "2021-12-14",
+        "email": "user@example.com",
+        "password": "string"
+      }
+    },
+    {
+      "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "content": "string",
+      "created_datetime": "2021-12-14 18:05:05.056705",
+      "created_timezone": "SA Pacific Standard Time",
+      "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "birth_date": "2021-12-14",
+        "email": "user@example.com",
+        "password": "string"
+      }
+    },
+    {
+      "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "content": "test",
+      "created_datetime": "2021-12-14 18:05:05.056705",
+      "created_timezone": "SA Pacific Standard Time",
+      "by": {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "birth_date": "2021-12-14",
+        "email": "user@example.com",
+        "password": "string"
+      }
+    }
+  ] 
+  
