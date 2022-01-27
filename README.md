@@ -30,3 +30,7 @@ Install all dependencies that are required for the project by running:
 To start the server run: 
 
 ```uvicorn main:app --reload```
+
+## Screenshot
+
+[![image](https://cdn.discordapp.com/attachments/936400336409755720/941014870021787648/unknown.png)](#)
